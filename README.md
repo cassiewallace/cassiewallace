@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Cassie!
 
-I'm an iOS Engineer living in the Colorado Rockies. After spending almost a decade as a product person, working with engineering teams to build iOS and Android apps for retailers, as well as SaaS products for complex fields like taxes, duties, and environmental compliance, I made the switch to iOS development.
+I'm an iOS Engineer with Swift, SwiftUI, and UIKit experience, bringing a product-focused perspective to building reliable, high-quality mobile apps with design systems, accessibility, complex UI interactions, platform architecture, and 0→1 product development.
 
 **Currently working on:**
 [Workout Cave](https://github.com/cassiewallace/workout-cave/), an iOS app that works with your indoor bike trainer for workouts _(SwiftUI, Supabase)_
